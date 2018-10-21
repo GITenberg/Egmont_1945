@@ -344,7 +344,7 @@ himself could not get at one. Here's to William of Orange! Hurrah!
 
 All. Hurrah! Hurrah!
 
-Soest. Now, grey-heard, let's have your toast.
+Soest. Now, grey-beard, let's have your toast.
 
 Ruysum. Here's to old soldiers! To all soldiers! War for ever!
 
@@ -614,11 +614,13 @@ I cannot deny that scarcely a day passes in which he does not wound
 me--deeply wound me.
 
 Machiavel. He appears to me to act on all occasions, according to the
-dictates of his conscience. Regent. His conscience has a convenient
-mirror. His demeanour is often offensive. He carries himself as if he
-felt he were the master here, and were withheld by courtesy alone from
-making us feel his supremacy; as if he would not exactly drive us out of
-the country; there'll be no need for that.
+dictates of his conscience.
+
+Regent. His conscience has a convenient mirror. His demeanour is often
+offensive. He carries himself as if he felt he were the master here, and
+were withheld by courtesy alone from making us feel his supremacy; as if
+he would not exactly drive us out of the country; there'll be no need
+for that.
 
 Machiavel. I entreat you, put not too harsh a construction upon his
 frank and joyous temper, which treats lightly matters of serious moment.
@@ -666,9 +668,8 @@ you, and cannot escape your eyes.
 
 Clara. Nonsense! Come and hold!
 
-Mother (knitting in her arm-chair). Give us a song! Brackenburg sings so
-good a second. You used to be merry once, and I had always something to
-laugh at.
+Mother. (knitting in her arm-chair). Give us a song! You used to be merry
+once, and I had always something to laugh at.
 
 Brackenburg. Once!
 
@@ -1030,7 +1031,7 @@ understand that?
 
 Jetter. Explain it to us.
 
-Vansen. Why, it is as dear as the sun. Must you not be governed
+Vansen. Why, it is as clear as the sun. Must you not be governed
 according to your provincial laws? How comes that?
 
 A Citizen. Certainly!
@@ -1409,7 +1410,7 @@ Secretary. Is that all? He expects still more.
 Egmont. What can I say? If you choose to write more fully, do so. The
 matter turns upon a single point; he would have me live as I cannot
 live. That I am joyous, live fast, take matters easily, is my good
-fortune; nor would! exchange it for the safety of a sepulchre. My
+fortune; nor would I exchange it for the safety of a sepulchre. My
 blood rebels against the Spanish mode of life, nor have I the least
 inclination to regulate my movements by the new and cautious measures of
 the court. Do I live only to think of life? Am I to forego the enjoyment
@@ -2494,8 +2495,6 @@ leading to the palace. The rest you know.
 
 Gomez. I do, my lord.
 
-[Exit. Alva. Silva.
-
 Silva. Here my lord.
 
 Alva. I shall require you to manifest to-day all the qualities which I
@@ -3134,7 +3133,7 @@ Brackenburg. Come home.
 Clara. Home?
 
 Brackenburg. Recollect thyself! Look around thee! These are the streets
-in which thou weft wont to appear only on the Sabbath-day, when thou
+in which thou wert wont to appear only on the Sabbath-day, when thou
 didst walk modestly to church; where, over-decorous perhaps, thou wert
 displeased if I but joined thee with a kindly greeting. And now thou
 dost stand, speak, and act before the eyes of the whole world. Recollect
@@ -3169,7 +3168,7 @@ Yet wherefore now, thou who hast so often chased the weightiest cares
 like bubbles from thy brow, wherefore canst thou not dissipate this dire
 foreboding which incessantly haunts thee in a thousand different shapes?
 Since when hast thou trembled at the approach of death, amid whose
-varying forms, thou weft wont calmly to dwell, as with the other shapes
+varying forms, thou wert wont calmly to dwell, as with the other shapes
 of this familiar earth. But 'tis not he, the sudden foe, to encounter
 whom the sound bosom emulously pants;---'tis the dungeon, emblem of the
 grave, revolting alike to the hero and the coward. How intolerable I
